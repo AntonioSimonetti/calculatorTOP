@@ -9,6 +9,10 @@ This is my third HTML/CSS/JS project.
 THE IDEA
 
 
+The idea was to create a simple calculator. The goal I set myself was to try to do something more on the graphic side using a specific graphic style 
+and try to make it usable for other types of devices as well.
+
+
 
 -CSS-
 
